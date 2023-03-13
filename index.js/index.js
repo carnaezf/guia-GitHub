@@ -5,5 +5,7 @@ function laCajaDePandora(num) {
   } else return num.toString(16);
 }
 
-console.log(20);
+
+console.log("Cambio hecho por ro")
+
 console.log(laCajaDePandora(454345));
